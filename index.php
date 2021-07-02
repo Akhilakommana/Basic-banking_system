@@ -10,7 +10,6 @@
    
 
     <title>Basic Banking System</title>
-  </head>
 
 <style type="text/css">
   *{
